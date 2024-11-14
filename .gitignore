@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.py[cod]
+*$py.class
+
+# Ignore IDE files
+.vscode/
+
+# files script
+restore_multiple_dbs.sh
+template.sh
+
+
+
+# Dir
+version/
+note
+note/
+script/
+note/
+dump/
+
+# dotenv
+env
+.env
+.envrc
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.b
+
+# macOS specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

@@ -1,5 +1,5 @@
 ```markdown
-# Restore_mysqldump
+# Database Restore Script
 
 A simple Bash script to restore a single SQL file into multiple MySQL databases concurrently, with progress display. This script is ideal for scenarios where you need to populate multiple databases with the same data, such as testing environments or development setups.
 
